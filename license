@@ -1,0 +1,61 @@
+Universal Digital Energy Capsule License (UDECL) v1.0
+=====================================================
+
+Copyright (c) 2025 [Ton Nom ou Pseudo]
+
+1. Objet
+--------
+La présente licence couvre le concept, le code et les implémentations des
+**Piles Numériques** ("Digital Energy Capsules"), y compris mais sans limitation :
+- Pile Random (entropie),
+- Pile Temps (temps cristallisé),
+- Pile Knowledge (savoir condensé),
+- ainsi que toutes variantes présentes ou futures (compute, bio, IA, green, etc.).
+
+2. Droits gratuits
+------------------
+- Usage personnel : autorisé
+- Usage éducatif et académique : autorisé
+- Recherche et expérimentation non commerciale : autorisées
+- Redistribution non commerciale (forks, publications scientifiques) : autorisée,
+  sous réserve de conserver ce texte de licence et la mention d’auteur.
+
+3. Restrictions
+---------------
+- Toute utilisation commerciale est strictement interdite sans accord écrit explicite
+  de l’auteur.
+- Est considéré comme **usage commercial** :
+  * vente ou revente de capsules numériques,
+  * intégration dans un produit, une application, une API ou un service payant,
+  * offre SaaS ou marketplace basée sur le concept,
+  * exploitation directe ou indirecte à but lucratif.
+- L’usage des termes **"Pile Numérique"** et **"Digital Energy Capsule"** dans
+  un cadre commercial est réservé à l’auteur.
+
+4. Attribution
+--------------
+Toute réutilisation (même non commerciale) doit mentionner clairement :
+  "Basé sur le concept original de **Pile Numérique** (Digital Energy Capsule)
+   créé par [Ton Nom/Pseudo], disponible sur [URL de ton dépôt GitHub]."
+
+5. Licence commerciale
+----------------------
+Pour tout usage commercial (vente de capsules, intégration dans des services,
+produits ou infrastructures), une licence spécifique doit être obtenue auprès
+de l’auteur. Contact : [ton email ou site].
+
+6. Exclusivité commerciale
+--------------------------
+L’auteur conserve l’exclusivité mondiale du droit de monétiser, vendre ou
+licencier les Piles Numériques et toutes leurs variantes.  
+Toute tentative de monétisation sans accord est une violation de la présente licence.
+
+7. Garantie
+-----------
+Les concepts, codes et capsules sont fournis "en l’état", sans aucune garantie
+explicite ou implicite, y compris mais sans limitation d’adéquation à un usage particulier.
+
+8. Reconnaissance
+-----------------
+En utilisant ce dépôt, le code ou une capsule, vous reconnaissez l’auteur comme
+l’inventeur du concept de **Pile Numérique** (Digital Energy Capsule).
